@@ -1,0 +1,7 @@
+numero=input("ingrese numeros primos:")
+while True:
+    if numero.isnumeric():
+        es_primo=True
+        for k in range(2,numero):
+            if k%2==0:
+                es_primo=False
