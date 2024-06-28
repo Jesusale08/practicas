@@ -224,7 +224,7 @@ def Opcion(numero):
 
 #Empieza el programa aqui
 #Mostrando Bienvenida
-print("\nBienvenidos a Practica 5 ó 6\nSeccion 2 Programacion\nGrupo 3\nJesús Mundarain y Josue Barreno\n")
+print("\nBienvenidos a Practica 5 ó 6\nSeccion 2 Programacion\nGrupo 3\nJesús Noguera y Josue Barreno\n")
 print("Este programa hace cifrados cesar y cifrado por primos")
 Run()
 Repetir()
