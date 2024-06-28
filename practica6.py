@@ -4,7 +4,7 @@ def Repetir():
         if rep == "y":
             Run()
         elif rep == "n":
-            print("\nGracias por usar el programa de Jesús Mundarain y Josue Barreno")
+            print("\nGracias por usar el programa de Jesús Noguera y Josue Barreno")
             break
         else:
             print("\nEscribe una opcion valida")
