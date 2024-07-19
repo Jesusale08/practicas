@@ -48,7 +48,7 @@ def correcion_alumno():
         while True:
             nueva_nota = float(input("ingrese la nueva nota:"))
             nuevas_notas.append({"nota": nueva_nota})
-        eleccion_alumno(cedula, correccion_nombre or estudiante[apellido], correcion_apellido or estudiante["apellido"], nuevas_notas or estudiante["nota1"] or estudiante["nota2"] or estudiante["nota3"])
+        
     else:
         print(f"no se encontro con alumno con cedula {cedula} ")
 
